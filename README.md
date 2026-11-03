@@ -1,0 +1,1 @@
+## I am reading AI Engineering by Chip Huyen and in this repo, I am documenting the updated resources, articles, research papers and repo to make this book more relevant to current AI engineering role.
