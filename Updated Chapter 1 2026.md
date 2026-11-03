@@ -116,13 +116,6 @@ My one-line note comes from Chapter 1, which only says agents are "a central top
 
 Next-token prediction, self-supervision, the foundation-model idea, the three-layer stack, evaluation as a central challenge, context as more than prompts, and the warning that building is easier than making money. This note adds to those foundations and does not replace them.
 
-## Open items
-
-- [ ] Read [OAI-SWE] in a browser. The page blocked automated fetching, so that claim rests on search excerpts.
-- [ ] Confirm the Nature publication of [HLE]. The DOI is listed on arXiv, but the article page would not open.
-- [ ] Read the Stanford AI Index 2026 directly. I only found secondary coverage, so I left its numbers out.
-- [ ] Check for a 2026 Stack Overflow survey. The figures here are from July 2025.
-
 ## References
 
 **Papers**
